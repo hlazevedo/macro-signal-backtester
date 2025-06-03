@@ -1,5 +1,5 @@
 """
-Simple example: Trading SPY/TLT based on yield curve signal
+strategy example: Trading SPY/TLT based on yield curve signal
 """
 import os
 import yaml

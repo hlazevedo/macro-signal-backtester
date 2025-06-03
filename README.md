@@ -1,6 +1,6 @@
 # Macro Signal Backtesting Framework
 
-A comprehensive, modular Python framework for backtesting systematic macro trading strategies using economic indicators and market signals.
+A modular Python MVP for backtesting systematic macro trading strategies using economic indicators and market signals.
 
 ---
 
@@ -42,7 +42,7 @@ Yield curve slope reflects market expectations for growth and inflation. Steepen
 
 - **Total Return**: 40% over 9 years ($1M → $1.4M)
 - **Maximum Drawdown**: 25.88% (Q4 2022 - Q2 2024)
-- **Key Success**: Excellent timing during Q3 2020 - Q4 2022 equity rally (100% SPY allocation)
+- **Key Success**: Good timing during Q3 2020 - Q4 2022 equity rally (100% SPY allocation)
 - **Timing Challenges**: 
   - Missed 2016-2019 equity bull market (mostly TLT allocation)
   - Recent drawdown from Q4 2022 rotation to bonds during continued rate hike environment

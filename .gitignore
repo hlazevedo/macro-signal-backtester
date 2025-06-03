@@ -9,7 +9,7 @@ env/
 .env
 .venv/
 
-# Data files (don't commit sensitive data)
+# Data files 
 *.csv
 config/config.yaml
 
